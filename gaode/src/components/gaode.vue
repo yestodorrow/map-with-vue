@@ -1,11 +1,17 @@
 <template>
   <div class="gaode">
-    this is map section
+    {{msg}}
   </div>
 </template>
 <script>
 export default{
-  name:"gaode"
+  name:"gaode",
+  data(){
+    return{
+      msg:"hello"
+    }
+
+}
 }
 </script>
 <style>
