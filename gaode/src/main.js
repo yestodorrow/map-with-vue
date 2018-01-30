@@ -5,7 +5,7 @@ import App from './App'
 import $ from 'jquery'
 
 import 'bootstrap/dist/css/bootstrap.min.css'
-import 'boostrap/dist/js/boostrap.min.js'
+import 'bootstrap/dist/js/bootstrap.min.js'
 
 Vue.config.productionTip = false
 
